@@ -1,4 +1,0 @@
-Hidden Layers,Neurons,Learning Rate,Accuracy
-1,8,0.01,0.81
-2,16,0.001,0.85
-3,32,0.0001,0.83
